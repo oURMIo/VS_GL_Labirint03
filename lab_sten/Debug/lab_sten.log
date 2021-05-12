@@ -1,0 +1,5 @@
+﻿  lab_sten.cpp
+E:\Progremir_2017-1018_C++\lab_sten\lab_sten\lab_sten.cpp(1,10): fatal error C1083: Не удается открыть файл предкомпилированный заголовок: Debug\lab_sten.pch: No such file or directory,
+  stdafx.cpp
+E:\Progremir_2017-1018_C++\lab_sten\lab_sten\stdafx.cpp(5,10): fatal error C1083: Не удается открыть файл предкомпилированный заголовок: Debug\lab_sten.pch: No such file or directory,
+  Создание кода...
